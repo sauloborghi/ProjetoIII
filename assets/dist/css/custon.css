@@ -14,6 +14,10 @@ main > .container {
   padding-left: 28%;
 }
 
+.noticia1 p {
+  padding-left: 40px;
+  padding-right: 40px;
+}
 
 .noticia2 img{
   padding-left: 30%;
