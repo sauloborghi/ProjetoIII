@@ -5,3 +5,25 @@
 main > .container {
   padding: 60px 15px 0;
 }
+
+.noticia1 img{
+  padding-left: 30%;
+}
+
+.noticia1 h1{
+  padding-left: 28%;
+}
+
+
+.noticia2 img{
+  padding-left: 30%;
+}
+
+.noticia2 h1{
+  padding-left: 25%;
+}
+
+.noticia2 p {
+  padding-left: 40px;
+  padding-right: 40px;
+}
